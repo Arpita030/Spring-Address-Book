@@ -1,0 +1,5 @@
+2025-03-07 15:28:23.931 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Starting SpringAddressBookApplication using Java 23.0.1 with PID 8956 (D:\Spring-Address-Book\Spring-Address-Book\target\classes started by Hp in D:\Spring-Address-Book\Spring-Address-Book)
+2025-03-07 15:28:23.933 [restartedMain] DEBUG [c.b.s.SpringAddressBookApplication      ] - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-07 15:28:23.934 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - No active profile set, falling back to 1 default profile: "default"
+2025-03-07 15:28:26.406 [restartedMain] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-07 15:28:26.704 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Started SpringAddressBookApplication in 3.12 seconds (process running for 3.669)
