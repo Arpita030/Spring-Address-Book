@@ -21,3 +21,10 @@
 2025-03-08 12:00:39.604 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Address Book App Started in DEV Environment
 2025-03-08 12:00:39.606 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Address Book DB User is root 
 2025-03-08 12:05:04.334 [HikariPool-1 housekeeper] WARN  [com.zaxxer.hikari.pool.HikariPool       ] - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m26s504ms335µs700ns).
+2025-03-08 14:56:33.522 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Starting SpringAddressBookApplication using Java 23.0.1 with PID 7792 (D:\Spring-Address-Book\Spring-Address-Book\target\classes started by Hp in D:\Spring-Address-Book\Spring-Address-Book)
+2025-03-08 14:56:33.524 [restartedMain] DEBUG [c.b.s.SpringAddressBookApplication      ] - Running with Spring Boot v3.4.3, Spring v6.2.3
+2025-03-08 14:56:33.525 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - The following 1 profile is active: "dev"
+2025-03-08 14:56:36.566 [restartedMain] WARN  [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration] - spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2025-03-08 14:56:36.908 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Started SpringAddressBookApplication in 3.787 seconds (process running for 4.373)
+2025-03-08 14:56:36.911 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Address Book App Started in DEV Environment
+2025-03-08 14:56:36.912 [restartedMain] INFO  [c.b.s.SpringAddressBookApplication      ] - Address Book DB User is root 
